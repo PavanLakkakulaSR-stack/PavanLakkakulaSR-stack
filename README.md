@@ -1,6 +1,6 @@
 # Hi there, I'm Pavan Santosh Ram Lakkakula 
 
-###  Aspiring Physics Researcher & HEP Developer
+###  Growing Physics Researcher & HEP Developer
 I am a Physics Undergraduate at **Guru Ghasidas University**, focused on the intersection of High Energy Physics and Machine Learning. 
 
 ---
