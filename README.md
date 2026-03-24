@@ -13,8 +13,5 @@ I am a Physics Undergraduate at **Guru Ghasidas University**, focused on the int
 * **Physics:** ROOT, Scikit-HEP (Uproot, Awkward Arrays).
 * **ML/Data Science:** Python (NumPy, Matplotlib), MLP Regressors for Signal Reconstruction.
 
-###  GSoC 2026 Goals
-I am currently preparing for the **ATLAS TileCal AI-Accelerated Reconstruction** project. My goal is to develop compact Neural Networks to outperform traditional Optimal Filtering in high pile-up environments.
-
 ---
  **How to reach me:** [(https://www.linkedin.com/in/pavan-lakkakulasr/)]
